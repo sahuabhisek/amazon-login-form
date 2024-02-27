@@ -1,0 +1,45 @@
+  body{
+            font-family: cursive
+  }
+.container{
+                -border: 1px solid black;
+                width: 420px;
+                height: 550px;
+                margin: auto;
+                background-color: whitesmoke;
+}
+.container h1{
+                 margin: 5px;
+}
+input{
+           width:350px;
+           margin:5px;
+           padding: 10px;
+           border-radius: 5px;
+           margin-left: 18px;
+}
+input:hover{
+               border-color: lightblue;
+}
+label{
+         margin:5px;
+}
+.btn{
+      width:380px; 
+      padding:8px;
+      margin: 10px;
+      border-radius: 5px; 
+      color:black;
+      background-color: yellow;    
+}
+.btn:hover{
+             background-color: red;
+}
+p{
+     margin: 20px;
+}
+a{
+           text-decoration: none;
+           cursor: pointer;
+
+}
